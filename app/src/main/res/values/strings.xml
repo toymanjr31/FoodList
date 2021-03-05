@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodList</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_detail">Food Detail</string>
+    <string name="food_list">Food List</string>
+    <string name="my_email">bagaskara.p@mail.ugm.ac.id\n a0080837@bangkit.academy</string>
+    <string name="my_name">Bagaskara Putra Wibowo</string>
+    <string name="dial_number">Call Me</string>
+    <string name="share">Share</string>
+</resources>
